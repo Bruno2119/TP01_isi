@@ -1,0 +1,11 @@
+﻿produto_id,nome,descricao,preco,estoque
+1,Notebook,Notebook 15 polegadas,3500.00,10
+2,Mouse,Mouse sem fio,50.00,100
+3,Teclado,Teclado mecânico,150.00,50
+4,Monitor,Monitor 24 polegadas,800.00,30
+5,Impressora,Impressora multifuncional,600.00,20
+6,Headset,Headset com cancelamento de ruído,200.00,40
+7,Webcam,Webcam HD 1080p,120.00,60
+8,Disco Externo,Disco rígido externo 1TB,250.00,25
+9,Carregador USB,Carregador rápido USB-C,30.00,150
+10,Adaptador HDMI,Adaptador HDMI para VGA,25.00,80

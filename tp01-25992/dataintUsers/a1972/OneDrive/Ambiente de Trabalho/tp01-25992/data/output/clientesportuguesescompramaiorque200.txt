@@ -1,0 +1,3 @@
+produto_compra;nome;nome_produto
+Impressora    ;Ana Silva       ;Impressora    
+Impressora    ;Maria Gon�alves ;Impressora    

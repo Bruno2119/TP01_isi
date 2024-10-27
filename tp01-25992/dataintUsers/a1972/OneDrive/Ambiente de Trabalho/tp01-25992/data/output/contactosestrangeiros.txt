@@ -1,0 +1,2 @@
+cliente_id;nome;email;telefone;cidade;data_cadastro;produto_compra
+11;Maksym Yavorenko;maksymyavorenko@email.com ;380911456789;Kiev     ;2023-08-10;Mouse         

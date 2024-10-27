@@ -1,0 +1,2 @@
+cliente_id;nome;email;telefone;cidade;data_cadastro;produto_compra
+10;Filipe Moreira  ;filipe.moreira@email.com  ;351001234567;Aveiro   ;2023-10-02;Mouse         

@@ -1,0 +1,5 @@
+﻿produto_id;nome;descricao;preco;estoque
+1;Notebook      ;Notebook 15 polegadas            ;3500;10
+4;Monitor       ;Monitor 24 polegadas             ;800;30
+5;Impressora    ;Impressora multifuncional        ;600;20
+8;Disco Externo ;Disco rígido externo 1TB         ;250;25
